@@ -1,11 +1,13 @@
-*{
+* {
     margin: 0%;
     padding: 0%;
 }
-body{
+
+body {
     background-color: lightgray;
 }
-nav ul{
+
+nav ul {
     height: 45px;
     background-color: rgba(31, 29, 28, 0.692);
     display: flex;
@@ -13,15 +15,18 @@ nav ul{
     justify-content: space-evenly;
     align-items: center;
 }
-ul li:hover{
+
+ul li:hover {
     background-color: lightblue;
 }
-ul li a{
+
+ul li a {
     font-size: large;
     color: white;
     text-decoration: none;
 
 }
+
 nav ul li {
     font-size: 15px;
     color: white;
@@ -31,14 +36,16 @@ nav ul li {
     height: 45px;
     display: flex;
 }
-p{
+
+p {
     font-size: 70px;
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 5%;
 }
-img{
+
+img {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -46,13 +53,15 @@ img{
     height: auto;
     margin-left: 35%;
 }
-h2{
+
+h2 {
     font-size: large;
     display: flex;
     justify-content: center;
     align-items: center;
 }
-footer{
+
+footer {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
